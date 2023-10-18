@@ -34,13 +34,13 @@ Copy code
 data['Year'] = pd.to_datetime(data['Year'], errors='coerce')
 ```
 
-Use Matplotlib and Seaborn to create visualizations and explore the data.  
-
+# Use Matplotlib and Seaborn to create visualizations and explore the data.  
+ 
 Visualize the distribution of global sales.  
 Explore the distribution of sales by genre.  
 Analyze the distribution of sales by platform.  
-Investigate the distribution of sales by region (e.g., North America, Europe, Japan, Rest of World).  
-#Key Insights
+Investigate the distribution of sales by region (e.g., North America, Europe, Japan, Rest of World).    
+# Key Insights  
 🌐 Insight 1: The average global sales of games is approximately 2.49 million, with a standard deviation of 3.56 million.
 
 📈 Insight 2: The highest global sales for a game is approximately 81.12 million.
@@ -59,13 +59,13 @@ Investigate the distribution of sales by region (e.g., North America, Europe, Ja
 
 🏢 Insight 9: The most prolific publisher in the dataset is 'Electronic Arts' with 341 games.
 
-#Top 10 Games of All Time
+# Top 10 Games of All Time
 Explore the top 10 games of all time by global sales.
 
-#Attributes of Successful Games
+# Attributes of Successful Games
 Analyze the attributes of successful games, including genres, platforms, and publishers.
 
-#Get Started
+# Get Started
 Clone this repository.
 Load the dataset using the provided code.
 Start exploring and analyzing the video game sales data.
