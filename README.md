@@ -2,8 +2,6 @@
 
 # Video Game Sales Analysis 🎮
 
-![Video Game Controller](add_image_url_here)
-
 Welcome to the exploration of video game sales data from around the world. This dataset offers insights into the gaming industry, covering various aspects such as platforms, genres, publishers, and regional sales. Dive into our analysis to uncover what makes a game successful and discover other valuable information hidden within this dataset.
 
 ## Setup Requirements
